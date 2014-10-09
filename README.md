@@ -4,7 +4,7 @@ Mouse-Pointer-Webcam-control
 MouseControl controls the functions of mouse pointer without
 incorporating the Mouse.
 
-        Inputs: redThresh = Threshold for red color detection
+         Inputs: redThresh = Threshold for red color detection
  
          greenThresh = Threshold for green color detection
          
