@@ -28,3 +28,5 @@ incorporating the Mouse.
            Show THREE BLUE finger to DOUBLE CLICK,
            
            MOVE the GREEN finger up and down to control the MOUSE SCROLL.
+
+More updates are on their way. 
