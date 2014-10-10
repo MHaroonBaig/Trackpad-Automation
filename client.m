@@ -1,3 +1,4 @@
+% This is the Client
 import java.net.Socket
     import java.io.*
      input_socket = Socket('127.0.0.1', 55000);
