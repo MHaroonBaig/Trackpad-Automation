@@ -19,7 +19,7 @@ incorporating the Mouse.
  
  Controls:
 ===========
- Use 1(One) RED, 1(One) GREEN and 3(Three) BLUE Caps for different fingers.
+ Use One RED, One GREEN and Three BLUE Caps for different fingers.
            
            MOVE the RED finger everywhere to control the POINTER POSITION,
            
