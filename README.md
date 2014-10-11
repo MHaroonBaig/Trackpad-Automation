@@ -17,7 +17,9 @@ incorporating the Mouse.
          
  Adjust the value of thresholds for different environments
  
- Controls: Use 1(One) RED, 1(One) GREEN and 3(Three) BLUE Caps for different fingers.
+ Controls:
+===========
+ Use 1(One) RED, 1(One) GREEN and 3(Three) BLUE Caps for different fingers.
            
            MOVE the RED finger everywhere to control the POINTER POSITION,
            
