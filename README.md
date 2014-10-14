@@ -31,4 +31,4 @@ incorporating the Mouse.
            
            MOVE the GREEN finger up and down to control the MOUSE SCROLL.
 
-More updates are on their way. 
+More updates are on their way, cheers!
