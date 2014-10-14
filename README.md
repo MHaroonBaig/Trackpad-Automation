@@ -1,4 +1,4 @@
-Mouse-Pointer-Webcam-control
+TrackPad Automation System
 ============================
 
 MouseControl controls the functions of mouse pointer without
