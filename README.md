@@ -17,7 +17,7 @@ incorporating the Mouse.
          
  Adjust the value of thresholds for different environments
  
- Controls:
+ Controls
 ===========
  Use One RED, One GREEN and Three BLUE Caps for different fingers.
            
@@ -31,4 +31,8 @@ incorporating the Mouse.
            
            MOVE the GREEN finger up and down to control the MOUSE SCROLL.
 
-More updates are on their way, cheers!
+More updates are on their way, cheers :+1:
+
+---
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.
