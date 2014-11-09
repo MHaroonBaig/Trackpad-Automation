@@ -4,7 +4,9 @@ TrackPad Automation System
 MouseControl controls the functions of mouse pointer without
 incorporating the Mouse.
 
-         Inputs: redThresh = Threshold for red color detection
+##Inputs
+
+         redThresh = Threshold for red color detection
  
          greenThresh = Threshold for green color detection
          
@@ -17,8 +19,8 @@ incorporating the Mouse.
          
  Adjust the value of thresholds for different environments
  
- Controls
-===========
+##Controls
+
  Use One RED, One GREEN and Three BLUE Caps for different fingers.
            
            MOVE the RED finger everywhere to control the POINTER POSITION,
@@ -31,7 +33,7 @@ incorporating the Mouse.
            
            MOVE the GREEN finger up and down to control the MOUSE SCROLL.
 
-More updates are on their way, cheers :+1:
+More updates are on their way, cheers :blush:
 
 ---
 
