@@ -6,18 +6,15 @@ incorporating the Mouse.
 
 ##Inputs
 
-         redThresh = Threshold for red color detection
+         Red Cap = Threshold for red color detection
  
-         greenThresh = Threshold for green color detection
+         Green Cap = Threshold for green color detection
          
-         blueThresh = Threshold for blue color detection
+         Blue Cap = Threshold for blue color detection
          
-         numFrame = Total number of frames duration
+         Number of Frames = Total number of frames duration
          
-         Set the default values below
-         
-         
- Adjust the value of thresholds for different environments
+ Adjust the value of thresholds for different environments inside the code. 
  
 ##Controls
 
