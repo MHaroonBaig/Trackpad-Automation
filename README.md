@@ -20,13 +20,13 @@ incorporating the Mouse.
 
  Use One RED, One GREEN and Three BLUE Caps for different fingers.
            
-           MOVE the RED finger everywhere to control the POINTER POSITION,
+           MOVE the red finger everywhere to control the POINTER POSITION.
            
-           Show ONE BLUE finger to LEFT CLICK,
+           Show one blue finger to LEFT CLICK.
            
-           Show TWO BLUE finger to RIGHT CLICK,
+           Show two fingers with blue caps to RIGHT CLICK.
            
-           Show THREE BLUE finger to DOUBLE CLICK,
+           Show three fingers with blue caps to DOUBLE CLICK.
            
            MOVE the GREEN finger up and down to control the MOUSE SCROLL.
 
