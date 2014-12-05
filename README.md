@@ -30,7 +30,7 @@ incorporating the Mouse.
            
            MOVE the GREEN finger up and down to control the MOUSE SCROLL.
 
-I'm no longer a maintainer of this repository. If someone wants to contribute and take the ownership, do let me know :blush:
+I am no longer a maintainer of this repository. If someone wants to contribute and take the ownership, do let me know :blush:
 
 ---
 
