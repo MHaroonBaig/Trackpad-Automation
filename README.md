@@ -1,8 +1,7 @@
 TrackPad Automation System
 ============================
 
-MouseControl controls the functions of mouse pointer without
-incorporating the Mouse.
+A minimal and simple script written in Matlab, which uses your webcam to control the movement and simulate the click events of your mouse by simple color recognition techniques. Curretly, it can detect only Red, Blue and Green colors. The script is really easy to run. The code is well commented and documented, so that you could modify it as per your needs. 
 
 ##Inputs
 
