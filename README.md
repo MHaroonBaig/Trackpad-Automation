@@ -29,7 +29,7 @@ A minimal and simple script written in Matlab, which uses your webcam to control
            
            MOVE the GREEN finger up and down to control the MOUSE SCROLL.
 
-**I am no longer a maintainer of this repository. If someone wants to contribute and wants to take the ownership, do let me know** :heart:
+**I am no longer a maintainer of this repository. If someone wants to contribute and wants to take the ownership, do let me know** 
 
 ---
 
